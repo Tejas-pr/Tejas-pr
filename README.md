@@ -1,5 +1,5 @@
-<h1 align="center">Hi Tejas P R</h1>
-<h3 align="center">MERN Stack devolpver</h3>
+<h1 align="center">Hi Tejas P R here!!</h1>
+<h3 align="center">Software engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
