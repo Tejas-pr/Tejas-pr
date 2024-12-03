@@ -1,10 +1,14 @@
 # SOFTWARE DEVELOPER
 
-### 👋 Hey there!   
-I'm ***Tejas P R*** – a passionate developer, problem solver, and learner dedicated to building efficient and innovative solutions.
+### Hey there! 🙋‍♂️
+
+I'm **_Tejas P R_** – Aspiring software developer passionate about building scalable applications using cutting-edge technologies.
+
+- Portfolio - [Visit here](https://tejaspr-portfolio.vercel.app/)
+
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-p-r-057a4622a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tejas67061437)[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tejas.teju02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-p-r-057a4622a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tejas.teju02@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tejas67061437)
 
 # 💻 Tech Stack:
 
