@@ -4,7 +4,7 @@
 
 I'm **_Tejas P R_** – Aspiring software developer passionate about building scalable applications using cutting-edge technologies.
 
-- Portfolio - [Visit here](https://tejaspr-portfolio.vercel.app/)
+- Portfolio - [Visit here](https://dub.sh/tejas-pr-portfolio)
 
 ## 🌐 Socials:
 
@@ -30,6 +30,7 @@ I'm **_Tejas P R_** – Aspiring software developer passionate about building sc
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -47,5 +48,3 @@ I'm **_Tejas P R_** – Aspiring software developer passionate about building sc
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Tejas-pr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
