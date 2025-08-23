@@ -1,16 +1,12 @@
-# SOFTWARE DEVELOPER
+## Hey there!
 
-### Hey there!
+I'm **_Tejas_** - [Portfolio](https://dub.sh/tejas-pr-portfolio)
 
-I'm **_Tejas_**
-
-- Portfolio - [Visit here](https://dub.sh/tejas-pr-portfolio)
-
-## 🌐 Socials:
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-p-r-057a4622a/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tejas.teju02@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tejas67061437)
 
-# 💻 Tech Stack:
+## Tech Stack:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,10 +32,6 @@ I'm **_Tejas_**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-pr&langs_count=6&hide=python&theme=dark&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Tejas-pr&icon=0&color=0)](https://visitcount.itsvg.in)
