@@ -43,7 +43,7 @@ I'm **_Tejas P R_** – Aspiring software developer passionate about building sc
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-pr&langs_count=8&hide=python&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-pr&langs_count=6&hide=python&theme=dark&layout=compact)
 
 ---
 
