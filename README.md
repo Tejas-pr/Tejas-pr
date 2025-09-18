@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm **_Tejas_** - [Portfolio](https://dub.sh/tejas-pr-portfolio)
+I'm **_Tejas_** - https://tejaspr.site/
 
 ## Socials:
 
